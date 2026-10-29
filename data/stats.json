@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": null,
-  "totals": { "messages": 0, "incoming": 0, "outgoing": 0, "commands": 0 },
+  "updatedAt": "2026-10-29T05:47:28.065Z",
+  "totals": {
+    "messages": 0,
+    "incoming": 0,
+    "outgoing": 0,
+    "commands": 0
+  },
   "days": {},
   "commands": {},
-  "bot": { "status": "waiting", "startedAt": null, "lastSeenAt": null }
+  "bot": {
+    "status": "online",
+    "startedAt": "2026-10-29T05:47:27.792Z",
+    "lastSeenAt": "2026-10-29T05:47:27.792Z"
+  }
 }
