@@ -1,57 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T08:17:24.215Z",
+  "updatedAt": "2026-10-29T08:17:29.454Z",
   "totals": {
-    "messages": 222,
-    "incoming": 158,
-    "outgoing": 64,
-    "commands": 13
+    "messages": 315,
+    "incoming": 238,
+    "outgoing": 77,
+    "commands": 3
   },
   "days": {
     "2026-10-29": {
-      "messages": 222,
-      "incoming": 158,
-      "outgoing": 64,
-      "commands": 13
+      "messages": 315,
+      "incoming": 238,
+      "outgoing": 77,
+      "commands": 3
     }
   },
   "commands": {
     "menu": 1,
     "ping": 1,
-    "play": 1,
-    "gitcreaterepo": 1,
-    "listrepo": 1,
-    "gitrepo": 2,
-    "gitaddzip": 1,
-    "s": 2,
-    "cc": 1,
-    "addfile": 1,
-    "jadibot": 1
+    "play": 1
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-10-29T07:37:37.779Z",
-    "lastSeenAt": "2026-10-29T08:17:23.978Z"
-  },
-  "bots": [
-    {
-      "session": "session/bot1",
-      "status": "online",
-      "number": "6282156******",
-      "username": "Zhenith Assistant"
-    },
-    {
-      "session": "session/bot2",
-      "status": "menunggu login",
-      "number": "Belum login",
-      "username": "Belum diketahui"
-    }
-  ],
-  "pairing": {
-    "status": "kode dibuat — cek chat owner",
-    "session": "session/bot2",
-    "number": "6287766******",
-    "codePreview": "MA••••••",
-    "createdAt": "2026-10-29T07:51:13.124Z"
+    "startedAt": "2026-10-29T05:47:27.792Z",
+    "lastSeenAt": "2026-10-29T08:15:30.935Z"
   }
 }
