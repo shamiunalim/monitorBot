@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T07:37:29.430Z",
+  "updatedAt": "2026-10-29T07:37:37.946Z",
   "totals": {
     "messages": 209,
     "incoming": 145,
@@ -22,7 +22,15 @@
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-10-29T05:47:27.792Z",
-    "lastSeenAt": "2026-10-29T07:37:29.369Z"
+    "startedAt": "2026-10-29T07:37:37.779Z",
+    "lastSeenAt": "2026-10-29T07:37:37.779Z"
+  },
+  "bots": [],
+  "pairing": {
+    "status": "belum ada permintaan",
+    "session": null,
+    "number": null,
+    "codePreview": null,
+    "createdAt": null
   }
 }
