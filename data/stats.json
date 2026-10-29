@@ -1,55 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T07:47:24.157Z",
+  "updatedAt": "2026-10-29T07:47:29.441Z",
   "totals": {
-    "messages": 220,
-    "incoming": 156,
-    "outgoing": 64,
-    "commands": 11
+    "messages": 256,
+    "incoming": 181,
+    "outgoing": 75,
+    "commands": 3
   },
   "days": {
     "2026-10-29": {
-      "messages": 220,
-      "incoming": 156,
-      "outgoing": 64,
-      "commands": 11
+      "messages": 256,
+      "incoming": 181,
+      "outgoing": 75,
+      "commands": 3
     }
   },
   "commands": {
     "menu": 1,
     "ping": 1,
-    "play": 1,
-    "gitcreaterepo": 1,
-    "listrepo": 1,
-    "gitrepo": 2,
-    "gitaddzip": 1,
-    "s": 2,
-    "cc": 1
+    "play": 1
   },
   "bot": {
     "status": "online",
-    "startedAt": "2026-10-29T07:37:37.779Z",
-    "lastSeenAt": "2026-10-29T07:47:23.928Z"
-  },
-  "bots": [
-    {
-      "session": "session/bot1",
-      "status": "online",
-      "number": "6282156******",
-      "username": "Zhenith Assistant"
-    },
-    {
-      "session": "session/bot2",
-      "status": "menunggu login",
-      "number": "Belum login",
-      "username": "Belum diketahui"
-    }
-  ],
-  "pairing": {
-    "status": "login berhasil",
-    "session": "session/bot1",
-    "number": null,
-    "codePreview": null,
-    "createdAt": null
+    "startedAt": "2026-10-29T05:47:27.792Z",
+    "lastSeenAt": "2026-10-29T07:47:25.410Z"
   }
 }
