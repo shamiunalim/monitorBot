@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T01:55:41.660Z",
+  "updatedAt": "2026-11-11T02:00:41.702Z",
   "totals": {
-    "messages": 7581,
-    "incoming": 6526,
-    "outgoing": 1055,
-    "commands": 46
+    "messages": 7596,
+    "incoming": 6533,
+    "outgoing": 1063,
+    "commands": 48
   },
   "days": {
     "2026-10-29": {
@@ -27,14 +27,14 @@
       "commands": 6
     },
     "2026-11-11": {
-      "messages": 228,
-      "incoming": 123,
-      "outgoing": 105,
-      "commands": 2
+      "messages": 243,
+      "incoming": 130,
+      "outgoing": 113,
+      "commands": 4
     }
   },
   "commands": {
-    "menu": 9,
+    "menu": 10,
     "ping": 1,
     "play": 1,
     "tt": 5,
@@ -45,7 +45,7 @@
     "wm": 1,
     "public": 1,
     "afk": 2,
-    "self": 1,
+    "self": 2,
     "linkgc": 1,
     "open": 1,
     "h": 2
@@ -53,6 +53,6 @@
   "bot": {
     "status": "online",
     "startedAt": "2026-11-11T01:20:39.934Z",
-    "lastSeenAt": "2026-11-11T01:55:09.058Z"
+    "lastSeenAt": "2026-11-11T01:59:55.863Z"
   }
 }
